@@ -154,3 +154,22 @@ nav.nav-center ul li a {
 
 /*:::::Pie de Pagina*/
 
+.casa-footer h3 {
+    margin: 20px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 9px;
+    padding: 10px;
+}
+
+.casa-footer {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    background-color: #333;
+    color: #d6d6d6;
+}
+
+.casa-footer img{
+    padding: 40px;
+}
