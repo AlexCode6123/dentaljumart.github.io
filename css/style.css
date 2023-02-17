@@ -25,19 +25,31 @@ nav.nav-center ul li a {
 
 /* ICONS CENTRAL*/
 
-#dental-icons{
-    padding: 0px 50px;
+.dental-icons{
+    padding: 0px 50px
 }
 
-#contenido-icons{
+.contenido-icons{
     padding: 50px 50px 0px 50px;
     display: flex;
     justify-content: space-between;
     text-align: center;
 }
 
-#contenido-icons div{
-    margin: 20px;
+.contenido-icons div{
+    flex: 1;
+    margin: 20px 0px;
+    font-weight: 100;
+    margin: 10px 0px;
+}
+
+.contenido-icons div h4{
+    color: black;
+    font-size: 20px;
+}
+
+.contenido-icons div p{
+    font-size: 15px;
 }
 
 /* #dental-icons{
@@ -189,3 +201,14 @@ nav.nav-center ul li a {
 .casa-footer img{
     padding: 40px;
 }
+
+/* RESPONSIVE */
+
+.contenido-icons{
+    flex-direction: column;
+}
+
+.contenido-icons div{
+    border: none;
+}
+
