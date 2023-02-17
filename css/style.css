@@ -23,15 +23,31 @@ nav.nav-center ul li a {
     background-position: 200px 200px;
 }
 
-/* ICONS */
+/* ICONS CENTRAL*/
 
 #dental-icons{
+    padding: 0px 50px;
+}
+
+#contenido-icons{
+    padding: 50px 50px 0px 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#contenido-icons div{
+    margin: 20px;
+}
+
+/* #dental-icons{
     padding: 20px 25px;
     text-align: center;
     display: flex;    
     justify-content: center;
+} */
 
-}
+/* }
 
 #dental-icons div{
     padding: 20px 15px;
@@ -52,7 +68,7 @@ nav.nav-center ul li a {
 
 #dental-icons div i{
     color: grey;
-}
+} */
 
 
 /* Navbar css */
