@@ -30,6 +30,11 @@ nav.nav-center ul li a {
     background: rgba(77, 77, 92, 0.6);
 }
 
+#dental-iconos div{
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
 .contenido-iconos{
     padding: 20px 50px 0px 50px;
     display: flex;
@@ -212,6 +217,9 @@ nav.nav-center ul li a {
 
 /* RESPONSIVE */
 
+.contenido-iconos div{
+    flex-direction: column;
+}
 
 
 .contenido-iconos div{
