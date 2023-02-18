@@ -23,6 +23,22 @@ nav.nav-center ul li a {
     background-position: 200px 200px;
 }
 
+/* CHECKS */
+
+.square-check li{
+    list-style: none;
+}
+
+.square-check i{
+    position: relative;
+    margin: 0px -30px;
+}
+
+.square-check p{
+    margin-top: -24px;
+    position: relative;
+}
+
 /* ICONS CENTRAL*/
 
 #dental-iconos{
