@@ -9,6 +9,9 @@ nav.nav-center ul li a {
     display: inline-block;
 }
 
+
+/* Logo Principal */
+
 .logoPrincipal{
     display: flex;
     justify-content: center;
@@ -18,10 +21,6 @@ nav.nav-center ul li a {
     text-align: center;
 }
 
-.personas1{
-    background-repeat: no-repeat;
-    background-position: 200px 200px;
-}
 
 /* CHECKS */
 
@@ -80,35 +79,6 @@ nav.nav-center ul li a {
     font-size: 15px;
 }
 
-/* #dental-icons{
-    padding: 20px 25px;
-    text-align: center;
-    display: flex;    
-    justify-content: center;
-} */
-
-/* }
-
-#dental-icons div{
-    padding: 20px 15px;
-}
-
-#dental-icons div h4{
-    color: black;
-    font-size: 20px;
-    margin: 5px 0px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-#dental-icons div p{
-    color: grey;
-    font-size: 18px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-#dental-icons div i{
-    color: grey;
-} */
 
 
 /* Navbar css */
@@ -166,34 +136,6 @@ nav.nav-center ul li a {
 
 }
 
-.Mayusculas{
-    text-align: initial;
-    margin-left: 100px;
-    top: 20px;
-    font-size: 30px;
-    position: relative;
-    color: green;
-}
-
-.argumento{
-    text-align: initial;
-    margin-left: 150px;
-    top: 5px;
-    font-size: 18px;
-    position: relative;
-    color: green;   
-    
-}
-
-.gente{
-    position: relative;
-    width: 500px;
-    height: 150px;
-    padding-right: 180px;
-    top: -106px;
-    
-}
-
 .banner-items{
     text-decoration: none;
 }
@@ -210,7 +152,7 @@ nav.nav-center ul li a {
 
 /*:::::Pie de Pagina*/
 
-.casa-footer h3 {
+.dental-footer h3 {
     margin: 20px 0;
     border-bottom: 1px solid #eee;
     font-size: 24px;
@@ -219,14 +161,14 @@ nav.nav-center ul li a {
     padding: 10px;
 }
 
-.casa-footer {
+.dental-footer {
     margin-bottom: 0;
     padding-bottom: 0;
     background-color: #333;
     color: #d6d6d6;
 }
 
-.casa-footer img{
+.dental-footer img{
     padding: 40px;
 }
 

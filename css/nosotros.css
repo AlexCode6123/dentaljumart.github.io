@@ -1,0 +1,17 @@
+.img-header {
+    background: url(../media/img/Dentist.png)no-repeat center;
+    height: 320px;
+    background-color: black;
+    background-size: cover;
+}
+
+.about-us{
+    text-align: center;
+    padding: 15px 0px 15px;
+}
+
+.dr-jm{
+    width: 400px;
+    height: 400px;
+}
+
