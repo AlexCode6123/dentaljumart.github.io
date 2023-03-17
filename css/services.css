@@ -1,0 +1,15 @@
+.card{
+    align-items: center;
+}
+
+.card img{
+    border-radius: 6px;
+    margin: 15px 600px 15px 0px;
+}
+
+
+.card h1{
+    position: relative;
+    left: 100px;
+    top: -400px;
+}
